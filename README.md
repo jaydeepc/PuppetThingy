@@ -1,4 +1,0 @@
-agiledevops
-===========
-
-Agile DevOps
